@@ -1,0 +1,10 @@
+C:\MyFirstApp\Hackathon\Hackathon2\Hackathon002\bin\Debug\Hackathon002.exe.config
+C:\MyFirstApp\Hackathon\Hackathon2\Hackathon002\bin\Debug\Hackathon002.exe
+C:\MyFirstApp\Hackathon\Hackathon2\Hackathon002\bin\Debug\Hackathon002.pdb
+C:\MyFirstApp\Hackathon\Hackathon2\Hackathon002\obj\Debug\Hackathon002.csprojResolveAssemblyReference.cache
+C:\MyFirstApp\Hackathon\Hackathon2\Hackathon002\obj\Debug\Hackathon002.Form1.resources
+C:\MyFirstApp\Hackathon\Hackathon2\Hackathon002\obj\Debug\Hackathon002.Properties.Resources.resources
+C:\MyFirstApp\Hackathon\Hackathon2\Hackathon002\obj\Debug\Hackathon002.csproj.GenerateResource.cache
+C:\MyFirstApp\Hackathon\Hackathon2\Hackathon002\obj\Debug\Hackathon002.csproj.CoreCompileInputs.cache
+C:\MyFirstApp\Hackathon\Hackathon2\Hackathon002\obj\Debug\Hackathon002.exe
+C:\MyFirstApp\Hackathon\Hackathon2\Hackathon002\obj\Debug\Hackathon002.pdb

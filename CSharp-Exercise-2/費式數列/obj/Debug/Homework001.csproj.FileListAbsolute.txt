@@ -1,0 +1,7 @@
+C:\農夫過河\Homework2\Homeworks\Homework001\bin\Debug\Homework001.exe.config
+C:\農夫過河\Homework2\Homeworks\Homework001\bin\Debug\Homework001.exe
+C:\農夫過河\Homework2\Homeworks\Homework001\bin\Debug\Homework001.pdb
+C:\農夫過河\Homework2\Homeworks\Homework001\obj\Debug\Homework001.csprojResolveAssemblyReference.cache
+C:\農夫過河\Homework2\Homeworks\Homework001\obj\Debug\Homework001.csproj.CoreCompileInputs.cache
+C:\農夫過河\Homework2\Homeworks\Homework001\obj\Debug\Homework001.exe
+C:\農夫過河\Homework2\Homeworks\Homework001\obj\Debug\Homework001.pdb

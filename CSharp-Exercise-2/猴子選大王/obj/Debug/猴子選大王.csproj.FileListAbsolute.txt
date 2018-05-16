@@ -1,0 +1,7 @@
+C:\農夫過河\Homework2\Homeworks\Homework002\bin\Debug\Homework002.exe.config
+C:\農夫過河\Homework2\Homeworks\Homework002\bin\Debug\Homework002.exe
+C:\農夫過河\Homework2\Homeworks\Homework002\bin\Debug\Homework002.pdb
+C:\農夫過河\Homework2\Homeworks\Homework002\obj\Debug\猴子選大王.csprojResolveAssemblyReference.cache
+C:\農夫過河\Homework2\Homeworks\Homework002\obj\Debug\猴子選大王.csproj.CoreCompileInputs.cache
+C:\農夫過河\Homework2\Homeworks\Homework002\obj\Debug\Homework002.exe
+C:\農夫過河\Homework2\Homeworks\Homework002\obj\Debug\Homework002.pdb

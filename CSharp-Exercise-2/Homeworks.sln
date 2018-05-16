@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "費式數列", "Homework001\費式數列.csproj", "{39BCCC03-7932-458F-AE06-D99A2A86BAD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "猴子選大王", "Homework002\猴子選大王.csproj", "{360601AC-D282-4473-9B89-5DC4E5719467}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "滷味", "Homework005\滷味.csproj", "{0D9BA9F1-B3DF-4641-9147-A5E4E45A23C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "停車費率", "Homework006\停車費率.csproj", "{336D340E-D766-4B96-90AC-81E9517C80B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "業績計算", "..\..\Build school C#\農夫過河\Homework2\HomeWork(資料庫)\Homework002\業績計算.csproj", "{AD6CD1C7-9DA3-40EF-9407-93176859E4CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "運輸票價", "..\..\Build school C#\農夫過河\Homework2\HomeWork(資料庫)\HoneWork003\運輸票價.csproj", "{F746464A-0571-41D7-B1ED-4E318CE464F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39BCCC03-7932-458F-AE06-D99A2A86BAD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39BCCC03-7932-458F-AE06-D99A2A86BAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39BCCC03-7932-458F-AE06-D99A2A86BAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39BCCC03-7932-458F-AE06-D99A2A86BAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{360601AC-D282-4473-9B89-5DC4E5719467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360601AC-D282-4473-9B89-5DC4E5719467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360601AC-D282-4473-9B89-5DC4E5719467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360601AC-D282-4473-9B89-5DC4E5719467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D9BA9F1-B3DF-4641-9147-A5E4E45A23C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9BA9F1-B3DF-4641-9147-A5E4E45A23C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9BA9F1-B3DF-4641-9147-A5E4E45A23C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9BA9F1-B3DF-4641-9147-A5E4E45A23C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{336D340E-D766-4B96-90AC-81E9517C80B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336D340E-D766-4B96-90AC-81E9517C80B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336D340E-D766-4B96-90AC-81E9517C80B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336D340E-D766-4B96-90AC-81E9517C80B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6CD1C7-9DA3-40EF-9407-93176859E4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6CD1C7-9DA3-40EF-9407-93176859E4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6CD1C7-9DA3-40EF-9407-93176859E4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6CD1C7-9DA3-40EF-9407-93176859E4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F746464A-0571-41D7-B1ED-4E318CE464F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F746464A-0571-41D7-B1ED-4E318CE464F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F746464A-0571-41D7-B1ED-4E318CE464F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F746464A-0571-41D7-B1ED-4E318CE464F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47AAB4FE-018D-4D0A-B113-14278070D0C6}
+	EndGlobalSection
+EndGlobal

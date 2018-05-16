@@ -1,0 +1,10 @@
+C:\農夫過河\Homework2\Homeworks\Homework006\bin\Debug\Homework006.exe.config
+C:\農夫過河\Homework2\Homeworks\Homework006\bin\Debug\Homework006.exe
+C:\農夫過河\Homework2\Homeworks\Homework006\bin\Debug\Homework006.pdb
+C:\農夫過河\Homework2\Homeworks\Homework006\obj\Debug\停車費率.csprojResolveAssemblyReference.cache
+C:\農夫過河\Homework2\Homeworks\Homework006\obj\Debug\Homework006.Form1.resources
+C:\農夫過河\Homework2\Homeworks\Homework006\obj\Debug\Homework006.Properties.Resources.resources
+C:\農夫過河\Homework2\Homeworks\Homework006\obj\Debug\停車費率.csproj.GenerateResource.cache
+C:\農夫過河\Homework2\Homeworks\Homework006\obj\Debug\停車費率.csproj.CoreCompileInputs.cache
+C:\農夫過河\Homework2\Homeworks\Homework006\obj\Debug\Homework006.exe
+C:\農夫過河\Homework2\Homeworks\Homework006\obj\Debug\Homework006.pdb

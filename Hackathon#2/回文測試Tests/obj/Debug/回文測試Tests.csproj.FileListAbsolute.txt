@@ -1,0 +1,12 @@
+C:\MyFirstApp\Hackathon\Hackathon2\回文測試Tests\bin\Debug\回文測試Tests.dll
+C:\MyFirstApp\Hackathon\Hackathon2\回文測試Tests\bin\Debug\回文測試Tests.pdb
+C:\MyFirstApp\Hackathon\Hackathon2\回文測試Tests\bin\Debug\Hackathon004.exe
+C:\MyFirstApp\Hackathon\Hackathon2\回文測試Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\MyFirstApp\Hackathon\Hackathon2\回文測試Tests\bin\Debug\Hackathon004.pdb
+C:\MyFirstApp\Hackathon\Hackathon2\回文測試Tests\bin\Debug\Hackathon004.exe.config
+C:\MyFirstApp\Hackathon\Hackathon2\回文測試Tests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\MyFirstApp\Hackathon\Hackathon2\回文測試Tests\obj\Debug\回文測試Tests.csprojResolveAssemblyReference.cache
+C:\MyFirstApp\Hackathon\Hackathon2\回文測試Tests\obj\Debug\回文測試Tests.csproj.CoreCompileInputs.cache
+C:\MyFirstApp\Hackathon\Hackathon2\回文測試Tests\obj\Debug\回文測試Tests.csproj.CopyComplete
+C:\MyFirstApp\Hackathon\Hackathon2\回文測試Tests\obj\Debug\回文測試Tests.dll
+C:\MyFirstApp\Hackathon\Hackathon2\回文測試Tests\obj\Debug\回文測試Tests.pdb

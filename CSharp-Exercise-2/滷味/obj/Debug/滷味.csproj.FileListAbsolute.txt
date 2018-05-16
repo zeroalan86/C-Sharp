@@ -1,0 +1,10 @@
+C:\農夫過河\Homework2\Homeworks\Homework005\bin\Debug\Homework005.exe.config
+C:\農夫過河\Homework2\Homeworks\Homework005\bin\Debug\Homework005.exe
+C:\農夫過河\Homework2\Homeworks\Homework005\bin\Debug\Homework005.pdb
+C:\農夫過河\Homework2\Homeworks\Homework005\obj\Debug\滷味.csprojResolveAssemblyReference.cache
+C:\農夫過河\Homework2\Homeworks\Homework005\obj\Debug\Homework005.Form1.resources
+C:\農夫過河\Homework2\Homeworks\Homework005\obj\Debug\Homework005.Properties.Resources.resources
+C:\農夫過河\Homework2\Homeworks\Homework005\obj\Debug\滷味.csproj.GenerateResource.cache
+C:\農夫過河\Homework2\Homeworks\Homework005\obj\Debug\滷味.csproj.CoreCompileInputs.cache
+C:\農夫過河\Homework2\Homeworks\Homework005\obj\Debug\Homework005.exe
+C:\農夫過河\Homework2\Homeworks\Homework005\obj\Debug\Homework005.pdb
